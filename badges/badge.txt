@@ -1,0 +1,7 @@
+Header
+Name
+Detail1
+Detail2
+Detail3
+Detail4
+/badges/badge_image.bin
